@@ -10,7 +10,7 @@ Designed for classroom demonstrations and independent exploration. No coding or 
 
 | Activity | What learners do | What it illustrates |
 | --- | --- | --- |
-| [Group It Yourself](https://chiningchang.github.io/clustering-playground/#group-it) | Organize 18 foods into 2–5 named groups, explain their reasoning, and copy a summary into class chat. | How chosen features and human interpretation shape grouping decisions. |
+| [Group It Yourself](https://chiningchang.github.io/clustering-playground/#group-it) | Drag 18 foods into 2–5 named groups, explain their reasoning, and copy a summary into class chat. | How chosen features and human interpretation shape grouping decisions. |
 | [K-Means Explorer](https://chiningchang.github.io/clustering-playground/#k-means) | Click the plot to assign points and update centroids, change K, and try new random starting centers. | How K-means iteratively adjusts groups and how initialization can change the result. |
 | [Hierarchical Explorer](https://chiningchang.github.io/clustering-playground/#hierarchical) | Merge groups step by step, compare linkage methods, and adjust a horizontal tree cut. | How a hierarchy forms and how cut height changes the selected grouping. |
 
@@ -55,7 +55,7 @@ The food activity is a manual analogy for clustering. It does not run a machine 
 
 No responses are submitted automatically. The activity stores no work on a server and uses no login. Reloading or closing the page clears the current work. Learners choose whether to copy and share their food-grouping summary.
 
-The interface adapts to smaller screens. Food assignments support dropdowns as an alternative to dragging. Tabs support arrow-key navigation, and playback controls use standard buttons.
+The interface adapts to smaller screens. Food cards support desktop drag and drop, touch dragging, and keyboard pickup and drop. Tabs support arrow-key navigation, and playback controls use standard buttons.
 
 ## Run locally
 
